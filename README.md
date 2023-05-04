@@ -1,7 +1,5 @@
-# landing-nft-page
- Landing Page que eu aplicaria para NFTs
+<p>Abaixo deixarei o link da minha landing page, que fiz para teste e prática de bootstrap</p>
 
-
-<h1>NFT Landing Page</h1>
+<h4>Landing Page - NFTs</h4>
 <hr>
 <a href="https://viniciusferraza1.github.io/landing-nft-page/"> Clique para acessar</a>
