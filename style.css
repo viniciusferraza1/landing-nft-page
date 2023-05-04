@@ -1,0 +1,38 @@
+body {
+
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+div.total {
+    background-color: rgba(0, 0, 0, 0.562);
+    
+    background-attachment: fixed;
+}
+
+a#none:hover {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+a:hover {
+    background-color: #1ff363;
+    color: black;
+}
+
+button#join {
+    background-color: #1ff363;
+    border-radius: 40px 40px 40px 40px;
+    color: black;
+    padding: 0px 2px 2px 0px;
+    border: none;
+}
+
+button#join:hover {
+    background-color: rgb(0, 0, 0);
+    border-radius: 40px 40px 40px 40px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    border: 1px solid white;
+}
